@@ -1,4 +1,4 @@
 # FCP-CSC-18-1083
-DESIGN AND IMPLEMENTATION OF AN E-COOPERATIVE SOCIETY WEB APPLICATION
-Its a web application that is designed for Jigawa State Association of Auctioneers which is the case study, and at this cooperative society they sell products by auction act
+DESIGN AND IMPLEMENTATION OF AN ONLINE AUCTION SYSTEM
+Its a web application that is designed for Auctions which is a case study of Federal University Dutse, and at this section they sell products by auction act
 the web application is made for auctions
